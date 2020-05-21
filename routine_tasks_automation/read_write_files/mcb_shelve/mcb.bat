@@ -1,0 +1,1 @@
+@pyw.exe C:\Users\valer\Source\small-python-projects\routine_tasks_automation\read_write_files\mcb.pyw %*

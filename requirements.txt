@@ -7,3 +7,4 @@ flake8==3.8.2
 openpyxl==3.0.3
 PyPDF2==1.26.0
 selenium==3.141.0
+Pillow==7.1.2
